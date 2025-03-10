@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! My name is Adib.
 
 <!--
 **AdibRouf/AdibRouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm a student at UCONN
+- I'm Majoring in CS
+- I have lots of ideas that I am currently working on
