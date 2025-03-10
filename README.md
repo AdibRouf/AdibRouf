@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm a student at UCONN
-- I'm Majoring in CS
-- I have lots of ideas that I am currently working on
+- Interested in Computational Data Analytics
+- Projects in progress...
