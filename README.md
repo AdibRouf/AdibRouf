@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm a student at UCONN
-- Interested in Computational Data Analytics
-- Projects in progress...
+- Interested in Artifical Intelligence
+- Check out my repos!
